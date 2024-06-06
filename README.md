@@ -11,4 +11,5 @@ Membres :
 
 ### Important:
 - Avant d'executer ``app.js``, executer les fichiers : ``src/db/db.sql`` et ``src/db/request.sql``
+- Configurer le fichier ``src/pg.js``
 
