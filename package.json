@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "pg": "^8.11.3",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "Données1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Données 1 last-exam, collaborateur: Sedera / Mandresy_Fenotiana / Fanasina_Iarizoa / Tafita / Dieudonné)",
+  "devDependencies": {
+    "@types/pg": "^8.11.6"
+  }
+}
