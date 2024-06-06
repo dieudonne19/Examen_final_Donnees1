@@ -10,5 +10,5 @@ Membres :
 - Dieudonné std23105
 
 ### Important:
-- Avant d'executer **app.js**, executer les fichiers : **src/db/db/sql** et **src/db/request.sql**
+- Avant d'executer **app.js**, executer les fichiers : ``src/db/db.sql`` et ``src/db/request.sql``
 
