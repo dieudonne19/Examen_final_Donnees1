@@ -1,9 +1,2 @@
 Nous sommes le groupe UNI!
 Notre projet est à propos de : VENTE DE TICKET POUR MATCH DE FOOTBALL
-
-Membres et tâches attribuées :
-- Tous les menus et message de bienvenue et Admin -> Menu principal: SEDERA std23101
-- Voir les tickets et voir la liste des matches : Mandresy Fenotiana std23057
-- Fanasina Iarizoa std23XXX : Admin -> Liste des clients, bénéfice
-- Tafita std22XXX : aide (achat)
-- Dieudonné std23105 : Lier tous les fonctions, sign up, 
